@@ -1,0 +1,43 @@
+ 1 = Opnieuw 2 = Negeren 3 = Stoppen
+-
+ Fout in programma, of dit
+ programma ondersteunt
+ uw video kaart niet.
+ Dit programma vereist
+ een VGA 640 x 480 x 16
+ kleuren video kaart.
+ Druk op een toets om
+ naar systeem terug te
+ gaan.
+-
+ Kan de muis niet vinden.
+-
+ Array te klein of
+ ongeldige index.
+-
+ Onvoldoende
+ Geheugen.
+-
+ Fout bij het lezen
+ van bestand.
+-
+ Bestand niet gevonden
+ of bestand bestaat niet.
+-
+ Bestand is al geopend.
+-
+ Onvoldoende ruimte op
+ schijf voor bestand.
+-
+ Kan niet schrijven naar
+ schijf of bestand.
+-
+ Schijf zit niet in drive.
+-
+ Schijf is beschadigd of
+ onbruikbaar.
+-
+ Directory niet gevonden
+ of directory bestaat niet.
+-
+ Onverwachte fout.

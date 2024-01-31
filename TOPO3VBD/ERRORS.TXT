@@ -1,0 +1,42 @@
+ESP
+ 1 = Rever 2 = Ignorar 3 = Dejar
+-
+ Error en el programa, o este
+ programa no es compatible con
+ su tarjeta de video. Este
+ programa requiere una tarjeta
+ de video VGA de 640 x 480 x 16
+ colores. Presione cualquier
+ tecla para regresar al sistema.
+-
+ No se puede encontrar el mouse.
+-
+ No hay memoria
+ suficiente.
+-
+ [161]ndice de matriz demasiado
+ peque[164]a o inv[160]lida.
+-
+ Error al leer el archivo.
+-
+ Archivo no encontrado o
+ el archivo no existe.
+-
+ El archivo ya est[160] abierto.
+-
+ No hay suficiente espacio en
+ disco para archivo.
+-
+ No puedo escribir a
+ disco o archivo.
+-
+ El disco no est[160] en la unidad.
+-
+ El disco est[160] da[164]ado o
+ in[163]til.
+-
+ Directorio no encontrado o
+ el directorio no existe.
+-
+ Error inesperado.
+

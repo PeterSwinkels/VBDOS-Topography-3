@@ -1,0 +1,41 @@
+ 1 = Retry 2 = Ignore 3 = Quit
+-
+ Error in program, or this
+ program does not support
+ your video card. This program
+ requires a VGA 640 x 480
+ x 16 color video card.
+ Press any key to return
+ to system.
+-
+ Cannot find the mouse.
+-
+ Not enough
+ memory.
+-
+ Array too small
+ or invalid index.
+-
+ Error while reading file.
+-
+ File not found or
+ file does not exist.
+-
+ File is already open.
+-
+ Not enough space on
+ disk for file.
+-
+ Cannot write to
+ disk or file.
+-
+ Disk is not in drive.
+-
+ Disk is damaged or
+ useless.
+-
+ Directory not found or
+ directory does not exist.
+-
+ Unexpected error.
+
